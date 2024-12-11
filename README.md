@@ -30,7 +30,7 @@ Este projeto é um script em Python para baixar vídeos do YouTube, com a opçã
 
 1. Execute o script:
    ```bash
-   python seu_script.py
+   python yt_downloader.py
    ```
 
 2. Insira a URL do vídeo que você deseja baixar.
